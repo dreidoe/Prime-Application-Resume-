@@ -1,0 +1,25 @@
+body {
+
+background-color: teal
+}
+
+li, ul {
+  color: white
+}
+
+h1,  {
+  color:black
+}
+
+p {
+  color:red
+}
+
+.header {
+  background-color: gray;
+  padding-left: 50px
+}
+.footer {
+  background-color: gray
+}
+
